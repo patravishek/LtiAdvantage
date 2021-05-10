@@ -1,0 +1,9 @@
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage.IdentityServer4\bin\Debug\netstandard2.0\LtiAdvantage.IdentityServer4.deps.json
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage.IdentityServer4\bin\Debug\netstandard2.0\LtiAdvantage.IdentityServer4.dll
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage.IdentityServer4\bin\Debug\netstandard2.0\LtiAdvantage.IdentityServer4.pdb
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage.IdentityServer4\obj\Debug\netstandard2.0\LtiAdvantage.IdentityServer4.csprojAssemblyReference.cache
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage.IdentityServer4\obj\Debug\netstandard2.0\LtiAdvantage.IdentityServer4.AssemblyInfoInputs.cache
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage.IdentityServer4\obj\Debug\netstandard2.0\LtiAdvantage.IdentityServer4.AssemblyInfo.cs
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage.IdentityServer4\obj\Debug\netstandard2.0\LtiAdvantage.IdentityServer4.csproj.CoreCompileInputs.cache
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage.IdentityServer4\obj\Debug\netstandard2.0\LtiAdvantage.IdentityServer4.dll
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage.IdentityServer4\obj\Debug\netstandard2.0\LtiAdvantage.IdentityServer4.pdb
