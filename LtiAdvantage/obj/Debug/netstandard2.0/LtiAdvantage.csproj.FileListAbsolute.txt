@@ -1,0 +1,10 @@
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage\bin\Debug\netstandard2.0\LtiAdvantage.deps.json
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage\bin\Debug\netstandard2.0\LtiAdvantage.dll
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage\bin\Debug\netstandard2.0\LtiAdvantage.pdb
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage\bin\Debug\netstandard2.0\LtiAdvantage.xml
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage\obj\Debug\netstandard2.0\LtiAdvantage.csprojAssemblyReference.cache
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage\obj\Debug\netstandard2.0\LtiAdvantage.AssemblyInfoInputs.cache
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage\obj\Debug\netstandard2.0\LtiAdvantage.AssemblyInfo.cs
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage\obj\Debug\netstandard2.0\LtiAdvantage.csproj.CoreCompileInputs.cache
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage\obj\Debug\netstandard2.0\LtiAdvantage.dll
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage\obj\Debug\netstandard2.0\LtiAdvantage.pdb
