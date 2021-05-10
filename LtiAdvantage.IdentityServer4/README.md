@@ -26,6 +26,3 @@ services.AddIdentityServer()
   .AddImpersonationSupport();
 ```
 
-There are two sample applications you can reference for ideas:
-- [Sample Tool](https://github.com/andyfmiller/LtiAdvantageTool)
-- [Sample Platform](https://github.com/andyfmiller/LtiAdvantagePlatform)
