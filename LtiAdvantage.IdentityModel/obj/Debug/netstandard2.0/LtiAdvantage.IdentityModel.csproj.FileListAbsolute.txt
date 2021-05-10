@@ -1,0 +1,9 @@
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage.IdentityModel\bin\Debug\netstandard2.0\LtiAdvantage.IdentityModel.deps.json
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage.IdentityModel\bin\Debug\netstandard2.0\LtiAdvantage.IdentityModel.dll
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage.IdentityModel\bin\Debug\netstandard2.0\LtiAdvantage.IdentityModel.pdb
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage.IdentityModel\obj\Debug\netstandard2.0\LtiAdvantage.IdentityModel.csprojAssemblyReference.cache
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage.IdentityModel\obj\Debug\netstandard2.0\LtiAdvantage.IdentityModel.AssemblyInfoInputs.cache
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage.IdentityModel\obj\Debug\netstandard2.0\LtiAdvantage.IdentityModel.AssemblyInfo.cs
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage.IdentityModel\obj\Debug\netstandard2.0\LtiAdvantage.IdentityModel.csproj.CoreCompileInputs.cache
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage.IdentityModel\obj\Debug\netstandard2.0\LtiAdvantage.IdentityModel.dll
+D:\Projects\LTI\LtiAdvantage\src\LtiAdvantage.IdentityModel\obj\Debug\netstandard2.0\LtiAdvantage.IdentityModel.pdb
