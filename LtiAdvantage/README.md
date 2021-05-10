@@ -12,5 +12,4 @@ LtiAdvantage is a library to ease the work of creating an LTI Advantage platform
 This library targets `netstandard2.0` and uses BouncyCastle.NetCore to read and write PEM formatted keys
 for compatibility with the [IMS LTI Reference Implementation](https://github.com/IMSGlobal/lti-reference-implementation).
 
-## Getting Started
 
